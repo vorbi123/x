@@ -4,6 +4,6 @@ UglyBot
 
   **!invite name [name]**
     
-    **!invite id [user_name]**
+**!invite id [user_name]**
     
-    **!invite code [user_code]**
+**!invite code [user_code]**
