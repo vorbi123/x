@@ -1,9 +1,1 @@
-UglyBot
-==========
---..Inviter Bot..--
-
-  **!invite name [name]**
-    
-**!invite id [user_name]**
-    
-**!invite code [user_code]**
+https://github.com/vorbi123/x.git
