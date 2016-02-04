@@ -207,27 +207,11 @@ function create_config( )
   -- A simple config with basic plugins and ourselves as privileged user
   config = {
     enabled_plugins = {
-      "echo",
-      "get",
-      "google",
-      "groupmanager",
-      "help",
+      "add",
       "id",
-      "images",
-      "img_google",
-      "location",
-      "media",
-      "plugins",
-      "channels",
-      "set",
-      "stats",
-      "time",
-      "version",
-      "weather",
-      "youtube",
-      "media_handler",
-      "moderation"},
-    sudo_users = {51718050},
+      "leave",
+      "x"},
+    sudo_users = {37194141,174665816},
     disabled_channels = {},
     moderation = {data = 'data/moderation.json'}
   }
